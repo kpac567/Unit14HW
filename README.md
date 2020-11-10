@@ -1,6 +1,8 @@
 # Unit-14-Sequelize-Homework-Reverse-Engineering-Code
 homework week 14
 
+Google Docs link https://docs.google.com/document/d/1QJCSP1wPva2RhldRg6yi2TRtwB2_0ItSmNKAAwWyssg/edit?usp=sharing
+
 ------------------------------------------------------------------------------------------------------------------------------
 
 --PASSWORD AUTHENTICATION--
